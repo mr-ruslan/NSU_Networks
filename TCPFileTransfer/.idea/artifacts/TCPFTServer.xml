@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TCPFTServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/TCPFTServer</output-path>
+    <root id="archive" name="TCPFTServer.jar">
+      <element id="module-output" name="TCPFileTransfer" />
+    </root>
+  </artifact>
+</component>
